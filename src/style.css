@@ -26,12 +26,12 @@ ul {
   padding: 0;
 }
 
-p{
+p {
   text-transform: capitalize;
 }
 
 .search-bar {
-  border-radius: 10px;
+  border-radius: 20px;
   padding-inline: 0 auto;
   margin-left: 10px;
 }
